@@ -10,4 +10,10 @@ public class Abcd {
 	private void namee() {
 		System.out.println("New branch created - Tasleem");
 	}
+	
+	private void nameee() {
+		System.out.println("Rakesh Branch");
+	}
 }
+
+	
